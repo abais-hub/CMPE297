@@ -1,7 +1,7 @@
 a) Perceiver ml model for classification in keras. 
    Image classification with Perceiver on cifar-10 dataset
    Instead of the cifar-100, the cifar-10 dataset is used
-   To cut traning time from ~2hours
+   To cut traning time from ~2hours per epoch
    - Image classification problem has been reduced to 2 classses
    - 5 epoch training is performed to cut runtime
   
