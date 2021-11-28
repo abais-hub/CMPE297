@@ -8,7 +8,8 @@ Medium Article
 https://abhishek-bais.medium.com/multi-task-learning-with-deep-neural-networks-b537a3236bc
 
 Slideshare
-https://www.slideshare.net/AbhishekBais8/multitask-learning-with-deep-neural-networks-a-survey
+https://www.slideshare.net/AbhishekBais8/multitask-learning-with-deep-neural-networks
 
 Video
-
+On google drive - shared with anyone on SJSU with this link
+https://drive.google.com/file/d/1GFYi2LAxeYWYFEMwyBYiePQtn8hB_ao0/view?usp=sharing
